@@ -488,3 +488,357 @@ LogInit: Object subsystem initialized
 [2017.04.27-00.04.28:830][821]LogOutputDevice:Error: ntdll.dll
 [2017.04.27-00.04.28:830][821]LogOutputDevice:Error: 
 [2017.04.27-00.04.28:837][821]LogStats:                SubmitErrorReport -  0.000 s
+[2017.04.27-00.04.29:047][821]LogStats:                    SendNewReport -  0.210 s
+[2017.04.27-00.04.29:047][821]LogStats:             FDebug::EnsureFailed -  0.278 s
+[2017.04.27-00.06.23:218][385]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.04.27-00.06.23:847][407]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-00.06.23:878][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-00.06.23:879][407]PIE: New page: PIE session: NewMap (Apr 26, 2017, 6:06:23 PM)
+[2017.04.27-00.06.23:879][407]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-00.06.23:882][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003443s)
+[2017.04.27-00.06.23:883][407]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-00.06.23:884][407]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2017.04.27-00.06.23:884][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.005308s)
+[2017.04.27-00.06.23:906][407]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-00.06.23:911][407]LogInit: FAudioDevice initialized.
+[2017.04.27-00.06.24:007][407]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-00.06.24:010][407]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-21.06.24
+[2017.04.27-00.06.24:011][407]LogWorld: Bringing up level for play took: 0.001630
+[2017.04.27-00.06.24:065][407]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.04.27-00.06.24:065][407]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-00.06.24:065][407]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-00.06.24:065][407]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-00.06.24:068][407]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-00.06.24:068][407]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 1.052
+[2017.04.27-00.14.00:417][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.033
+[2017.04.27-00.14.00:418][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/HUD] ([1] browsable assets)...
+[2017.04.27-00.14.00:418][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/HUD]
+[2017.04.27-00.14.00:467][ 78]LogSavePackage: Save=31.81ms
+[2017.04.27-00.14.00:467][ 78]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/HUD_Auto1A73901164B426C2EBB3031AB87B04495.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto1.uasset'
+[2017.04.27-00.14.00:469][ 78]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto1.uasset
+[2017.04.27-00.14.00:469][ 78]LogFileHelpers: Auto-saving content packages took 0.051
+[2017.04.27-01.01.21:499][935]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.025
+[2017.04.27-01.01.21:502][935]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventorySystem/Widgets/Inventory] ([1] browsable assets)...
+[2017.04.27-01.01.21:502][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventorySystem/Widgets/Inventory]
+[2017.04.27-01.01.21:512][935]LogSavePackage: Save=8.48ms
+[2017.04.27-01.01.21:512][935]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory_Auto2319B449B498B2D7FD855389EDF0216A3.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto2.uasset'
+[2017.04.27-01.01.21:529][935]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto2.uasset
+[2017.04.27-01.01.21:529][935]LogFileHelpers: Auto-saving content packages took 0.028
+[2017.04.27-01.14.37:482][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.019
+[2017.04.27-01.14.37:484][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventorySystem/Widgets/Inventory] ([1] browsable assets)...
+[2017.04.27-01.14.37:484][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventorySystem/Widgets/Inventory]
+[2017.04.27-01.14.37:499][285]LogSavePackage: Save=14.08ms
+[2017.04.27-01.14.37:499][285]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory_Auto32D786970499ACDBBD71694BA492DF2A0.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto3.uasset'
+[2017.04.27-01.14.37:500][285]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto3.uasset
+[2017.04.27-01.14.37:500][285]LogFileHelpers: Auto-saving content packages took 0.017
+[2017.04.27-01.28.04:970][868]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.027
+[2017.04.27-01.28.04:971][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventorySystem/Widgets/Inventory] ([1] browsable assets)...
+[2017.04.27-01.28.04:971][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventorySystem/Widgets/Inventory]
+[2017.04.27-01.28.04:999][868]LogSavePackage: Save=25.69ms
+[2017.04.27-01.28.04:999][868]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory_Auto47A8604D04D84B759028C5C8D18EC4BA9.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto4.uasset'
+[2017.04.27-01.28.05:000][868]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto4.uasset
+[2017.04.27-01.28.05:000][868]LogFileHelpers: Auto-saving content packages took 0.030
+[2017.04.27-01.28.54:784][659]BlueprintLog: New page: Compile Inventory
+[2017.04.27-01.28.55:367][679]LogSavePackage: Save=26.09ms
+[2017.04.27-01.28.55:367][679]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory77D704F74462ADEE7209AF8145CC0817.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset'
+[2017.04.27-01.28.55:369][679]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset
+[2017.04.27-01.35.38:323][311]BlueprintLog: New page: Compile MainWidget
+[2017.04.27-01.35.39:044][340]LogSavePackage: Save=19.46ms
+[2017.04.27-01.35.39:044][340]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainWidgetA3E123DF4221C4E06DBCA191CD4C566E.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset'
+[2017.04.27-01.35.39:048][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset
+[2017.04.27-01.35.58:214][896]LogRenderer: Reallocating scene render targets to support 876x572 NumSamples 1 (Frame:6892).
+[2017.04.27-01.36.19:592][819]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.27-01.36.57:434][ 80]LogEditorTransaction: Undo Promote To Variable
+[2017.04.27-01.38.17:253][825]LogSavePackage: Save=13.61ms
+[2017.04.27-01.38.17:253][825]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainWidgetB75315DA4A881393EB708E843935E7E0.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset'
+[2017.04.27-01.38.17:255][825]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset
+[2017.04.27-01.38.17:613][847]BlueprintLog: New page: Compile MainWidget
+[2017.04.27-01.38.40:098][473]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.27-01.38.51:284][140]BlueprintLog: New page: Compile MainWidget
+[2017.04.27-01.39.43:332][367]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.39.47:796][606]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.39.48:475][627]LogSavePackage: Save=65.77ms
+[2017.04.27-01.39.48:475][627]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_Inventory72D1823946CE0099B00E2DA8ADFE9108.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-01.39.48:478][627]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-01.41.28:795][448]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.41.29:704][473]LogSavePackage: Save=68.31ms
+[2017.04.27-01.41.29:704][473]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_InventoryF6649E6843BC00A8700E8DAE0E77B38C.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-01.41.29:707][473]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-01.41.54:285][440]LogSavePackage: Save=14.17ms
+[2017.04.27-01.41.54:285][440]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainWidget7E26E660406C1E39D09318973D47AB33.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset'
+[2017.04.27-01.41.54:288][440]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset
+[2017.04.27-01.42.53:910][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.019
+[2017.04.27-01.42.53:911][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/HUD] ([1] browsable assets)...
+[2017.04.27-01.42.53:911][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/HUD]
+[2017.04.27-01.42.53:961][769]LogSavePackage: Save=33.36ms
+[2017.04.27-01.42.53:961][769]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/HUD_Auto5FAD450FB426AD4DF8EE06C8218CBEC05.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto5.uasset'
+[2017.04.27-01.42.53:963][769]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto5.uasset
+[2017.04.27-01.42.53:963][769]LogFileHelpers: Auto-saving content packages took 0.052
+[2017.04.27-01.43.06:306][505]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.43.07:122][528]LogSavePackage: Save=65.37ms
+[2017.04.27-01.43.07:122][528]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_Inventory249C62754FEE6EB57D5C969AAD721176.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-01.43.07:125][528]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-01.43.29:799][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainCharacter" FILE="../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/MainCharacter.uasset" SILENT=true
+[2017.04.27-01.43.29:894][189]LogSavePackage: Save=76.43ms
+[2017.04.27-01.43.29:894][189]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainCharacter012100A44336EFBBD0C028A0DB10C76D.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/MainCharacter.uasset'
+[2017.04.27-01.43.29:896][189]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/MainCharacter.uasset
+[2017.04.27-01.43.30:231][209]BlueprintLog: New page: Compile MainCharacter
+[2017.04.27-01.43.41:860][696]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-01.43.41:917][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-01.43.41:917][696]PIE: New page: PIE session: NewMap (Apr 26, 2017, 7:43:41 PM)
+[2017.04.27-01.43.41:917][696]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-01.43.41:919][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002281s)
+[2017.04.27-01.43.41:920][696]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-01.43.41:920][696]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2017.04.27-01.43.41:920][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003736s)
+[2017.04.27-01.43.41:948][696]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-01.43.41:952][696]LogInit: FAudioDevice initialized.
+[2017.04.27-01.43.41:984][696]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-01.43.41:986][696]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-22.43.41
+[2017.04.27-01.43.41:987][696]LogWorld: Bringing up level for play took: 0.001544
+[2017.04.27-01.43.41:987][696]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.43.41:987][696]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.43.41:987][696]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.43.42:053][696]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.43.42:053][696]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 1.038
+[2017.04.27-01.44.10:793][387]BlueprintLog: New page: Compile MainWidget
+[2017.04.27-01.44.11:338][402]LogSavePackage: Save=12.97ms
+[2017.04.27-01.44.11:338][402]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainWidget9851B6EB40FAF60518BAC993F6DA3096.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset'
+[2017.04.27-01.44.11:341][402]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset
+[2017.04.27-01.44.12:723][484]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-01.44.12:760][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-01.44.12:760][484]PIE: New page: PIE session: NewMap (Apr 26, 2017, 7:44:12 PM)
+[2017.04.27-01.44.12:760][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-01.44.12:763][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002194s)
+[2017.04.27-01.44.12:763][484]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-01.44.12:764][484]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2017.04.27-01.44.12:764][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003295s)
+[2017.04.27-01.44.12:785][484]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-01.44.12:789][484]LogInit: FAudioDevice initialized.
+[2017.04.27-01.44.12:820][484]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-01.44.12:822][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-22.44.12
+[2017.04.27-01.44.12:822][484]LogWorld: Bringing up level for play took: 0.001389
+[2017.04.27-01.44.12:823][484]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.44.12:823][484]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.44.12:823][484]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.44.12:831][484]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.44.12:831][484]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.185
+[2017.04.27-01.44.31:208][568]BlueprintLog: New page: Compile MainWidget
+[2017.04.27-01.44.31:786][588]LogSavePackage: Save=13.41ms
+[2017.04.27-01.44.31:786][588]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainWidget203AA3BA4526724D1F2FA0BA11D7B493.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset'
+[2017.04.27-01.44.31:789][588]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset
+[2017.04.27-01.44.33:315][679]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-01.44.33:341][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-01.44.33:342][679]PIE: New page: PIE session: NewMap (Apr 26, 2017, 7:44:33 PM)
+[2017.04.27-01.44.33:342][679]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-01.44.33:343][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001806s)
+[2017.04.27-01.44.33:344][679]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-01.44.33:344][679]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2017.04.27-01.44.33:344][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.002806s)
+[2017.04.27-01.44.33:365][679]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-01.44.33:369][679]LogInit: FAudioDevice initialized.
+[2017.04.27-01.44.33:401][679]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-01.44.33:403][679]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-22.44.33
+[2017.04.27-01.44.33:404][679]LogWorld: Bringing up level for play took: 0.001394
+[2017.04.27-01.44.33:404][679]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.44.33:404][679]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.44.33:404][679]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.44.33:412][679]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.44.33:412][679]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.396
+[2017.04.27-01.44.46:501][464]LogBlueprintUserMessages: [MainCharacter_C_0] Health Potion 2
+[2017.04.27-01.44.47:450][521]LogBlueprintUserMessages: [MainCharacter_C_0] Map 1
+[2017.04.27-01.46.27:505][344]LogSavePackage: Save=25.35ms
+[2017.04.27-01.46.27:505][344]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/InventoryD34C1AC446F400EAA6DF9DBD5EF95F92.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset'
+[2017.04.27-01.46.27:508][344]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset
+[2017.04.27-01.46.27:833][363]BlueprintLog: New page: Compile Inventory
+[2017.04.27-01.47.54:740][525]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.47.55:945][563]LogSavePackage: Save=71.67ms
+[2017.04.27-01.47.55:945][563]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_InventoryBCE82680453D69D132C365A65B7868BF.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-01.47.55:950][563]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-01.52.30:437][918]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.52.30:819][925]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-01.52.31:649][952]LogSavePackage: Save=76.74ms
+[2017.04.27-01.52.31:649][952]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_Inventory7A2EF5AF45A87AAD0FB999AADDF35D8E.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-01.52.31:652][952]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-01.52.35:717][194]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-01.52.35:745][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-01.52.35:745][194]PIE: New page: PIE session: NewMap (Apr 26, 2017, 7:52:35 PM)
+[2017.04.27-01.52.35:745][194]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-01.52.35:748][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002114s)
+[2017.04.27-01.52.35:748][194]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-01.52.35:749][194]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2017.04.27-01.52.35:749][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003447s)
+[2017.04.27-01.52.35:773][194]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-01.52.35:777][194]LogInit: FAudioDevice initialized.
+[2017.04.27-01.52.35:809][194]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-01.52.35:811][194]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-22.52.35
+[2017.04.27-01.52.35:812][194]LogWorld: Bringing up level for play took: 0.001274
+[2017.04.27-01.52.35:812][194]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.52.35:812][194]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.52.35:812][194]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.52.35:823][194]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.52.35:823][194]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.807
+[2017.04.27-01.53.11:388][310]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-01.53.11:420][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-01.53.11:420][310]PIE: New page: PIE session: NewMap (Apr 26, 2017, 7:53:11 PM)
+[2017.04.27-01.53.11:420][310]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-01.53.11:423][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002572s)
+[2017.04.27-01.53.11:424][310]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-01.53.11:424][310]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2017.04.27-01.53.11:424][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003757s)
+[2017.04.27-01.53.11:456][310]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-01.53.11:460][310]LogInit: FAudioDevice initialized.
+[2017.04.27-01.53.11:493][310]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-01.53.11:496][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-22.53.11
+[2017.04.27-01.53.11:496][310]LogWorld: Bringing up level for play took: 0.001201
+[2017.04.27-01.53.11:496][310]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.53.11:496][310]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-01.53.11:496][310]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.53.11:571][310]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-01.53.11:571][310]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.555
+[2017.04.27-01.54.35:426][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.043
+[2017.04.27-01.54.35:427][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/HUD] ([1] browsable assets)...
+[2017.04.27-01.54.35:427][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/HUD]
+[2017.04.27-01.54.35:476][234]LogSavePackage: Save=32.25ms
+[2017.04.27-01.54.35:476][234]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/HUD_Auto6C61E03314BB0BCCBC1437CA4E1908013.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto6.uasset'
+[2017.04.27-01.54.35:478][234]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto6.uasset
+[2017.04.27-01.54.35:478][234]LogFileHelpers: Auto-saving content packages took 0.052
+[2017.04.27-02.03.47:968][723]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-02.03.48:640][739]LogSavePackage: Save=73.90ms
+[2017.04.27-02.03.48:640][739]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_Inventory809143BB403EB3662A5A1E9AE6852DBE.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-02.03.48:643][739]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-02.03.50:034][821]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-02.03.50:062][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-02.03.50:062][821]PIE: New page: PIE session: NewMap (Apr 26, 2017, 8:03:50 PM)
+[2017.04.27-02.03.50:063][821]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-02.03.50:065][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002126s)
+[2017.04.27-02.03.50:065][821]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-02.03.50:066][821]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2017.04.27-02.03.50:066][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003197s)
+[2017.04.27-02.03.50:089][821]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-02.03.50:093][821]LogInit: FAudioDevice initialized.
+[2017.04.27-02.03.50:127][821]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-02.03.50:129][821]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-23.03.50
+[2017.04.27-02.03.50:129][821]LogWorld: Bringing up level for play took: 0.001461
+[2017.04.27-02.03.50:130][821]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.03.50:130][821]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.03.50:130][821]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.03.50:138][821]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.03.50:139][821]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.877
+[2017.04.27-02.03.55:331][132]LogBlueprintUserMessages: [MainCharacter_C_0] Ring 1
+[2017.04.27-02.03.57:397][256]LogBlueprintUserMessages: [MainCharacter_C_0] Health Potion 1
+[2017.04.27-02.03.58:314][311]LogBlueprintUserMessages: [MainCharacter_C_0] Health Potion 1
+[2017.04.27-02.03.58:831][342]LogBlueprintUserMessages: [MainCharacter_C_0] Ring 1
+[2017.04.27-02.03.59:314][371]LogBlueprintUserMessages: [MainCharacter_C_0] Ring 1
+[2017.04.27-02.08.39:089][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.031
+[2017.04.27-02.08.39:092][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventorySystem/Blueprints/BP_Inventory] ([1] browsable assets)...
+[2017.04.27-02.08.39:092][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventorySystem/Blueprints/BP_Inventory]
+[2017.04.27-02.08.39:200][107]LogSavePackage: Save=91.58ms
+[2017.04.27-02.08.39:200][107]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_Inventory_Auto7633E644F45EFBB64B9E14E9A7BFF3C19.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Blueprints/BP_Inventory_Auto7.uasset'
+[2017.04.27-02.08.39:201][107]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Blueprints/BP_Inventory_Auto7.uasset
+[2017.04.27-02.08.39:201][107]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.04.27-02.17.03:429][657]BlueprintLog: New page: Compile BP_Inventory
+[2017.04.27-02.17.05:569][747]LogSavePackage: Save=73.25ms
+[2017.04.27-02.17.05:569][747]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/BP_Inventory2BBCBF0C4CD236803A4F95A21C512F26.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2017.04.27-02.17.05:572][747]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/BP_Inventory.uasset
+[2017.04.27-02.17.08:730][929]LogSavePackage: Save=25.78ms
+[2017.04.27-02.17.08:730][929]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory5C037BCA45226F17523B3190FAED2765.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset'
+[2017.04.27-02.17.08:733][929]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset
+[2017.04.27-02.17.18:942][527]LogSavePackage: Save=6.28ms
+[2017.04.27-02.17.18:942][527]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/S_InventorySlot6B2C84B94B546FCB3D753B8A3164B5BC.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/Structures/S_InventorySlot.uasset'
+[2017.04.27-02.17.18:945][527]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Blueprints/Structures/S_InventorySlot.uasset
+[2017.04.27-02.18.39:876][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.024
+[2017.04.27-02.18.39:878][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD/HUD] ([1] browsable assets)...
+[2017.04.27-02.18.39:878][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/HUD]
+[2017.04.27-02.18.39:931][401]LogSavePackage: Save=34.19ms
+[2017.04.27-02.18.39:931][401]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/HUD_Auto8256E0DC342F72A51923EF18D195B0026.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto8.uasset'
+[2017.04.27-02.18.39:932][401]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/HUD/HUD_Auto8.uasset
+[2017.04.27-02.18.39:932][401]LogFileHelpers: Auto-saving content packages took 0.055
+[2017.04.27-02.34.56:361][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.040
+[2017.04.27-02.34.56:363][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventorySystem/Widgets/Inventory] ([1] browsable assets)...
+[2017.04.27-02.34.56:363][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventorySystem/Widgets/Inventory]
+[2017.04.27-02.34.56:409][231]LogSavePackage: Save=27.42ms
+[2017.04.27-02.34.56:409][231]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory_Auto9BEDE44494312CCC2E48EE69ABD234ED5.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto9.uasset'
+[2017.04.27-02.34.56:411][231]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Autosaves/Game/Blueprints/InventorySystem/Widgets/Inventory_Auto9.uasset
+[2017.04.27-02.34.56:411][231]LogFileHelpers: Auto-saving content packages took 0.049
+[2017.04.27-02.36.41:587][307]BlueprintLog: New page: Compile Inventory
+[2017.04.27-02.36.42:123][323]LogSavePackage: Save=25.03ms
+[2017.04.27-02.36.42:123][323]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/InventoryFB474FCA42F0846F7F8664BFF0899B50.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset'
+[2017.04.27-02.36.42:127][323]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset
+[2017.04.27-02.36.43:348][396]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-02.36.43:377][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-02.36.43:377][396]PIE: New page: PIE session: NewMap (Apr 26, 2017, 8:36:43 PM)
+[2017.04.27-02.36.43:377][396]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-02.36.43:380][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002023s)
+[2017.04.27-02.36.43:380][396]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-02.36.43:380][396]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.04.27-02.36.43:380][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.002980s)
+[2017.04.27-02.36.43:407][396]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-02.36.43:411][396]LogInit: FAudioDevice initialized.
+[2017.04.27-02.36.43:444][396]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-02.36.43:447][396]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-23.36.43
+[2017.04.27-02.36.43:447][396]LogWorld: Bringing up level for play took: 0.001479
+[2017.04.27-02.36.43:448][396]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.36.43:448][396]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.36.43:448][396]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.36.43:458][396]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.36.43:458][396]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.442
+[2017.04.27-02.36.54:045][ 25]Set new viewmode: Wireframe
+[2017.04.27-02.36.54:723][ 65]Set new viewmode: Wireframe
+[2017.04.27-02.36.55:190][ 93]Set new viewmode: Wireframe
+[2017.04.27-02.36.55:540][114]Set new viewmode: Wireframe
+[2017.04.27-02.36.55:807][130]Set new viewmode: Unlit
+[2017.04.27-02.36.56:673][182]Set new viewmode: Lit
+[2017.04.27-02.37.09:137][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.27-02.38.01:773][533]LogSavePackage: Save=24.94ms
+[2017.04.27-02.38.01:773][533]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/InventoryC38011EA4638264665894D96F50FA160.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset'
+[2017.04.27-02.38.01:776][533]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset
+[2017.04.27-02.38.02:106][553]BlueprintLog: New page: Compile Inventory
+[2017.04.27-02.38.14:756][760]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-02.38.14:785][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-02.38.14:785][760]PIE: New page: PIE session: NewMap (Apr 26, 2017, 8:38:14 PM)
+[2017.04.27-02.38.14:785][760]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-02.38.14:788][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002604s)
+[2017.04.27-02.38.14:788][760]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-02.38.14:788][760]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2017.04.27-02.38.14:789][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003688s)
+[2017.04.27-02.38.14:813][760]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-02.38.14:817][760]LogInit: FAudioDevice initialized.
+[2017.04.27-02.38.14:851][760]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-02.38.14:853][760]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-23.38.14
+[2017.04.27-02.38.14:853][760]LogWorld: Bringing up level for play took: 0.001594
+[2017.04.27-02.38.14:854][760]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.38.14:854][760]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.38.14:854][760]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.38.14:862][760]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.38.14:862][760]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.154
+[2017.04.27-02.41.26:040][219]LogSavePackage: Save=28.58ms
+[2017.04.27-02.41.26:041][219]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/Inventory20996B484F1EC558DEDBE9AECEF22A0B.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset'
+[2017.04.27-02.41.26:043][219]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/Inventory.uasset
+[2017.04.27-02.41.26:286][234]BlueprintLog: New page: Compile Inventory
+[2017.04.27-02.41.27:944][322]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.27-02.41.27:982][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.27-02.41.27:982][322]PIE: New page: PIE session: NewMap (Apr 26, 2017, 8:41:27 PM)
+[2017.04.27-02.41.27:982][322]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2017.04.27-02.41.27:985][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002297s)
+[2017.04.27-02.41.27:986][322]LogAIModule: Creating AISystem for world NewMap
+[2017.04.27-02.41.27:986][322]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2017.04.27-02.41.27:986][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.003582s)
+[2017.04.27-02.41.28:009][322]LogInit: XAudio2 using 'Speakers (USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-02.41.28:013][322]LogInit: FAudioDevice initialized.
+[2017.04.27-02.41.28:047][322]LogLoad: Game class is 'GameMode_C'
+[2017.04.27-02.41.28:052][322]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.04.26-23.41.28
+[2017.04.27-02.41.28:053][322]LogWorld: Bringing up level for play took: 0.003318
+[2017.04.27-02.41.28:055][322]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.41.28:055][322]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.27-02.41.28:055][322]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.41.28:076][322]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.27-02.41.28:076][322]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 1.06
+[2017.04.27-02.45.15:601][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/HUD" FILE="../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/HUD/HUD.uasset" SILENT=true
+[2017.04.27-02.45.15:651][ 17]LogSavePackage: Save=32.21ms
+[2017.04.27-02.45.15:651][ 17]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/HUDF1C9D1964F0715D03677E7A802F41F6A.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/HUD/HUD.uasset'
+[2017.04.27-02.45.15:656][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/HUD/HUD.uasset
+[2017.04.27-02.45.15:688][ 17]LogSavePackage: Save=13.46ms
+[2017.04.27-02.45.15:688][ 17]LogSavePackage: Moving '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Saved/MainWidgetD97EC76545972DD4ABC8688D393CA08A.tmp' to '../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset'
+[2017.04.27-02.45.15:691][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/azthe/Documents/Unreal Projects/Transfusion_0_1/Content/Blueprints/InventorySystem/Widgets/MainWidget.uasset
+[2017.04.27-02.46.43:955][962]SourceControl: Info fatal: C:/Program Files/Epic Games/UE_4.14/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.14/Engine/Content/' is outside repository
